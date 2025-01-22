@@ -7,3 +7,5 @@ It's a markdown file in this repositry.
 
 
 ## Practicing Fetch and pull
+git pull
+git fetch origin
